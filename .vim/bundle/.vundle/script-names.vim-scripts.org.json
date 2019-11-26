@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Vim Scripts</title>
+    <meta content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  </head>
+  <body>
+    <div class="jumbotron text-center">
+      <h1>Vim Scripts</h1>
+      <p>is no more</p>
+    </div>
+
+    <div class='container'>
+      <div class='row'>
+        <div class='col-sm-2'>
+        </div>
+        <div class='col-sm-8'>
+          <p>This used to be a mirror of <a href='https://www.vim.org/scripts'>Vim's scripts</a> site on Github.</p>
+
+          <p>
+            It was created to allow early package managers
+            (such as <a href='https://github.com/bronson/vim-update-bundles'>Vim Update Bundles</a>
+            and <a href='https://github.com/VundleVim/Vundle.vim'>Vundle</a>)
+            to install scripts straight from GitHub
+            <a id='src' href='#dst'><sup>*</sup></a>.
+          </p>
+
+          <p>Now that most Vim scripts are developed on GitHub and installable straight
+            from the source, I'm happy to say that there's no need for vim-scripts anymore.</p>
+
+          <p>The code has been emptied out to compel users to switch to better sources.
+            The repos remain so none of the work in pull requests is lost.</p>
+
+          <p>The scraper code is preserved on GitHub: <a href="http://github.com/vim-scraper/vim-scraper/">vim-scraper</a>.</p>
+
+          <p>Happy vimming!</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer fixed-bottom container">
+      <div class='row'>
+        <div class='col-sm-2'>
+        </div>
+        <div class='col-sm-8'>
+          <p><a id='dst' href='#src'>*</a> Mostly it was created because vimballs are super duper unfriendly to package managers.</p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

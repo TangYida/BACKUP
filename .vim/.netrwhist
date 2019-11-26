@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/tangyida/YL-X503-E06'
+let g:netrw_dirhist_2='/home/tangyida'
+let g:netrw_dirhist_3='/home/tangyida/9-17'
+let g:netrw_dirhist_4='/home/tangyida/桌面'
+let g:netrw_dirhist_5='/home/tangyida/X503-E06/tree'
+let g:netrw_dirhist_6='/home/tangyida'
+let g:netrw_dirhist_7='/home/tangyida/YL-X503-E06/zhuzhu'
+let g:netrw_dirhist_8='/home/tangyida/programmes'
